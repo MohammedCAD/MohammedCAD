@@ -1,16 +1,27 @@
-## Hi there 👋
+# Mohammed Albayati
 
-<!--
-**MohammedCAD/MohammedCAD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Mechanical Engineer | Product Development | CAE/FEM | Design Optimization
 
-Here are some ideas to get you started:
+Mechanical Engineer with an M.Sc. in Product Development from Chalmers University of Technology, specializing in mechanical design, computational engineering, structural simulation, numerical optimization and engineering automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I develop engineering solutions combining parametric CAD, finite element analysis and multidisciplinary design optimization.
+
+**[View My Engineering Portfolio](https://mohammedcad.github.io/)**
+
+**[Explore Autonomous MDO](https://mohammedcad.github.io/autonomous-mdo.html)**
+
+## Featured Engineering Projects
+
+### Autonomous MDO
+An independently developed multidisciplinary engineering optimization platform combining intelligent algorithm selection, CAD/FEM integration and engineering qualification.
+
+### Mechanical CAD & Product Design
+Parametric and surface-based CAD projects involving mechanical assemblies, jet engines, automotive concepts and complex geometric modelling.
+
+### Master's Thesis
+Simulation-based prediction and calibration of geometric shrinkage during debinding and sintering.
+
+### Six Sigma Black Belt
+Chalmers University of Technology — engineering quality improvement, DMAIC, statistical analysis and design of experiments.
+**Portfolio:** https://mohammedcad.github.io/  
+**GitHub:** https://github.com/MohammedCAD
